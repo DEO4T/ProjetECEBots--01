@@ -16,7 +16,7 @@
 
 ## 2. RÉPARTITION DES RÔLES (ÉQUIPE DE 4)
 
-### Membre 1 : Lead Développeur & Architecte (Toi)
+### Tao : Lead Développeur & Architecte (Toi)
 * **Rôle :** Responsable de l'architecture du code et du moteur de simulation.
 * **Pour le rendu mi-parcours (23/11) :**
   * Définir toutes les structures de données C (grille, drone, robot, déchets).
@@ -27,7 +27,7 @@
   * Intégrer les extensions dans le code principal.
   * Réaliser le graphe d'appels final des fonctions.
 
-### Membre 2 : Développeur IHM & Contrôles Clavier
+### Timothée : Développeur IHM & Contrôles Clavier
 * **Rôle :** Responsable de l'interface console et des interactions utilisateur.
 * **Pour le rendu mi-parcours (23/11) :**
   * Concevoir la maquette visuelle de l'écran console (symboles, couleurs, légende, zone de statut).
@@ -36,7 +36,7 @@
   * Coder le module `affichage.c` en utilisant `affichage_console.h` et `<conio.h>`.
   * Réaliser les captures d'écran commentées pour la partie tests du rapport final.
 
-### Membre 3 : Concepteur Algorithmique & Extensions
+###  Maxence : Concepteur Algorithmique & Extensions
 * **Rôle :** Responsable de la logique algorithmique et du développement des bonus.
 * **Pour le rendu mi-parcours (23/11) :**
   * Rédiger les logigrammes détaillés des algorithmes (apparition aléatoire des déchets, détection sur 8 cases voisines, collisions).
@@ -45,7 +45,7 @@
   * Coder les fonctions liées aux extensions choisies.
   * Rédiger la section listant les modifications apportées par rapport au rapport de mi-parcours.
 
-### Membre 4 : Chef de Projet, Qualité & Documentation
+### Thomas : Chef de Projet, Qualité & Documentation
 * **Rôle :** Responsable de la planification, des tests et de la rédaction des dossiers.
 * **Pour le rendu mi-parcours (23/11) :**
   * Créer le planning prévisionnel (diagramme de Gantt) et le tableau de répartition des tâches.
