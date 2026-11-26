@@ -98,7 +98,7 @@ En complément du cahier des charges de base, le projet intègre les évolutions
 
 | Membre | Rôle & Responsabilités |
 | :--- | :--- |
-| **Membre 1** | **Lead Dev & Architecte** — Architecture modulaire, structures de données et moteur de simulation (`simulation.c`). |
-| **Membre 2** | **Développeur IHM** — Affichage console, couleurs, légende et gestion clavier non bloquante (`affichage.c`). |
-| **Membre 3** | **Concepteur Algorithmique** — Logigrammes et développement des extensions (batteries & statistiques). |
-| **Membre 4** | **Chef de Projet & Qualité** — Planification, cahier de tests, documentation et soutenance. |
+| **Tao Defforge** | **Lead Dev & Architecte** — Architecture modulaire, structures de données et moteur de simulation (`simulation.c`). |
+| **Timothée Kammerer** | **Développeur IHM** — Affichage console, couleurs, légende et gestion clavier non bloquante (`affichage.c`). |
+| **Maxence Le Bris--Barbleu** | **Concepteur Algorithmique** — Logigrammes et développement des extensions (batteries & statistiques). |
+| **Thomas Loulergue** | **Chef de Projet & Qualité** — Planification, cahier de tests, documentation et soutenance. |
